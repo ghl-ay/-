@@ -1,5 +1,5 @@
 {
-  /* Base configuration. Do not edit this field. */
+  /* Base configuration. Do not edit this field. * hhhhhh/
   "extends": "./temp/tsconfig.cocos.json",
 
   /* Add your custom configuration here. */
